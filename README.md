@@ -1,6 +1,3 @@
-# AI-Content-Scheduler
- AI-powered content scheduling tool to automate and optimize social media posting across multiple platforms.
-
 # 📅 AI-Powered Content Scheduling Tool
 An open-source tool that automates and optimizes social media posting using AI predictions. It helps users schedule content at the best times for maximum engagement.
 
